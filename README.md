@@ -20,7 +20,7 @@
 <br>
 
 <!-- Identity badges -->
-<img src="https://img.shields.io/badge/Ajman%20University-UAE-0A66C2?style=for-the-badge&logo=graduationcap&logoColor=white" alt="Ajman University" />
+<img src="https://img.shields.io/badge/Ajman%20University-UAE-0A66C2?style=for-the-badge&logo=graduationcap&logoColor=white" alt="K S SCHOOL OF ENGINEERING AND MANAGEMENT" />
 <img src="https://img.shields.io/badge/Bangalore%2C%20India-FF6F61?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Bangalore, India" />
 
 </div>
@@ -29,7 +29,7 @@
 
 ## 🙋♂️ About Me
 
-I'm **Mohammed Saad**, a Computer Science Engineering student in my **3rd semester at Ajman University**, based in **Bangalore, India**. I believe great developers are built one commit at a time — so that's exactly what I'm doing.
+I'm **Mohammed Saad**, a Computer Science Engineering student in my **3rd semester at K S SCHOOL OF ENGINEERING AND MANAGEMENT**, based in **Bangalore, India**. I believe great developers are built one commit at a time — so that's exactly what I'm doing.
 
 - 🐍 **Python** is my home language — I love writing clean, readable code
 - 🌐 Currently learning **web development**, on my way to **full stack**
