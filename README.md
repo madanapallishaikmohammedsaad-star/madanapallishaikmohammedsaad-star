@@ -57,10 +57,11 @@ A simple to-do list application created to practice Python programming and appli
 
 ### 🤖 VivaMate AI
 
-An AI-related project focused on exploring practical applications of artificial intelligence.
+An AI-powered engineering exam assistant designed to help students with exam preparation and learning.
 
-**Status:** Under development and review
+**Status:** In development
 
+**Repository:** [VivaMate AI](https://github.com/madanapallishaikmohammedsaad-star/vivamate-ai)
 ---
 
 ## 🎯 Current Goals
